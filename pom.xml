@@ -95,11 +95,11 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>saddam</id>
-			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
+			<url>http://3.110.106.146:8081/repository/sad-snapshot</url>
 		</snapshotRepository>
 		<repository>
 			<id>saddam</id>
-			<url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+			<url>http://3.110.106.146:8081/repository/sad-release</url>
 		</repository>
 	</distributionManagement>
 	
